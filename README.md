@@ -1,7 +1,7 @@
 # Catastrophic-Forgetting
 
 This study investigates Multi-Task Learning (MTL) and Elastic Weight Consolidation
-(EWC) as strategies to mitigate this issue and compares it with Vanilla Sequential Finetuning (SFT).
+(EWC) as strategies to mitigate catastrophic forgetting  and compares it with Vanilla Sequential Finetuning (SFT).
 
 ### Branch Info
 
